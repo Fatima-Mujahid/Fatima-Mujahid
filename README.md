@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Fatima Mujahid.
+🌱 I'm learning MERN stack.
 
 <!--
 **Fatima-Mujahid/Fatima-Mujahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
