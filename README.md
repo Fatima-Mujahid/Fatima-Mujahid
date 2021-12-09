@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatima Mujahid</h1>
-<h3 align="center">I'm Fatima Mujahid, a software engineering student at NUST and technical enthusiast who does full stack development and graphic design. Passionate to contribute to cool products.</h3>
+<p align="center">I'm Fatima Mujahid, a software engineering student at NUST and technical enthusiast who does full stack development and graphic design. Passionate to contribute to cool products.</p>
 
 <p align="center"> <img src="https://avatars.githubusercontent.com/u/80899001?v=4" alt="Fatima Mujahid" /> </p>
 
