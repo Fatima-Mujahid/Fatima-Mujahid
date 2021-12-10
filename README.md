@@ -31,6 +31,8 @@
 - 👨‍💻 All of my projects are available at []()
 -->
 
+- 👩‍🏫 Special thanks to [Anum Mujahid](https://github.com/AnumMujahid) for being there throughout my coding journey
+
 - 📫 How to reach me **fmujahid.bese18seecs@seecs.edu.pk**
 
 ### Technologies
