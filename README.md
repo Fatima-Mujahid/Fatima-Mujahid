@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://avatars.githubusercontent.com/u/80899001?v=4" alt="Fatima Mujahid" /> </p>
 
-- 🌱 I’m currently learning **Web Engineering - Php and Laravel**
+- 🌱 I’m currently studying **Machine Learning**
 
-- 👯 I’m looking to collaborate on [Techtonic](https://github.com/Fatima-Mujahid/Techtonic)
+- 👯 I’ve recently started working on [NUST Polling App](https://github.com/Fatima-Mujahid/nust-polls-backend)
 
 - 💻 Courses I have studied during my degree include:
 
