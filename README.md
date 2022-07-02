@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying **Machine Learning**
 
-- 👯 I’m currently working on a freelance project with NextJS and Firebase.
+- 👯 I’m currently working on a freelance project with **NextJS** and **Firebase**.
 
 - 💻 Courses I have studied during my degree include:
 
