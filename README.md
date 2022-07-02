@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying **Machine Learning**
 
-- 👯 I’ve recently started working on [NUST Polling App](https://github.com/Fatima-Mujahid/nust-polls-backend)
+- 👯 I’m currently working on a freelance project with NextJS and Firebase.
 
 - 💻 Courses I have studied during my degree include:
 
