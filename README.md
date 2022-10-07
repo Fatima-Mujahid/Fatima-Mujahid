@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m currently working on a freelance project with **NextJS** and **Firebase**.
+- 👯 I’m currently working on a freelance project with **NextJS** and **Material UI**.
 
 - 💻 Courses I have studied during my degree include:
 
