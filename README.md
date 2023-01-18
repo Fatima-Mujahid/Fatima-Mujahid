@@ -40,10 +40,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatima-Mujahid&layout=compact&hide=html" alt="Fatima Mujahid most used languages" />
 <br /><br /><br /><br /><br /><br /><br /><br />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Fatima-Mujahid&show_icons=true" alt="Fatima Mujahid github stats" />
-<p align="center">
-<a href="" target="blank"><img align="center" src="" alt="" height="30" width="30" /></a>
-</p>
 <br /><br /><br /><br /><br /><br /><br />
+<br /><br />
 
 ![](https://komarev.com/ghpvc/?username=Fatima-Mujahid)
 
