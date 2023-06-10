@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatima Mujahid</h1>
-<p align="center">I'm Fatima Mujahid, a software engineering student at NUST and technology enthusiast who does full stack development and graphic design. Passionate to contribute to cool products.</p>
+<p align="center">I'm Fatima Mujahid, a software engineering student at NUST and technology enthusiast who does full stack development. Passionate to contribute to cool products.</p>
 
 - 🌱 I’m currently learning **Mobile App Development** using **Flutter**
 <!-- - 👯 I’m currently working on a freelance project with **NextJS** and **Material UI**. -->
