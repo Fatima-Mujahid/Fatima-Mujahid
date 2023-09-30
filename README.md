@@ -41,5 +41,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Fatima-Mujahid&show_icons=true" alt="Fatima Mujahid github stats" /> -->
 <!-- <br /><br /><br /><br /><br /><br /><br /><br /> -->
 <br />
+<!--
+[![An image of @fatimamujahid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fatimamujahid)](https://holopin.io/@fatimamujahid)
+-->
 
 ![](https://komarev.com/ghpvc/?username=Fatima-Mujahid)
