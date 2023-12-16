@@ -2,7 +2,7 @@
 <p align="center">I'm Fatima Mujahid, a software engineer who graduated from NUST and a technology enthusiast who does full-stack development. Passionate to contribute to cool products.</p>
 
 - 🌱 I’m currently learning **Data Science** through **Coursera**.
-<!-- - 👯 I’m currently working on some freelance projects using **Google Forms API** and **React Flow**. -->
+- 👯 I’m currently working on some freelance projects using **Google Forms API** and **React Flow**.
 
 - 💻 Courses I have studied during my degree include:
 
