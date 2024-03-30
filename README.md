@@ -30,7 +30,7 @@
 
 - 👩‍🏫 Special thanks to [Anum Mujahid](https://github.com/AnumMujahid) for being there throughout my coding journey
 
-- 📫 How to reach me **fmujahid.bese19seecs@seecs.edu.pk**
+- 📫 How to reach me **fatimamujahid01@gmail.com**
 
 ### Technologies
 
