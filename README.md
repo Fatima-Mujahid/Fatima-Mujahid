@@ -2,7 +2,7 @@
 <p align="center">I'm Fatima Mujahid, a NUST graduate and a passionate software engineer specializing in full-stack development. As a technology enthusiast, I'm eager to contribute to innovative and impactful products.</p>
 
 <!--- 🌱 I’m currently learning **Data Science** through **Coursera**.-->
-- 👯 I’m currently working on multiple projects using **NextJS** and **Django**.
+- 🚀 I’m currently working on some projects using **NextJS** and **Django**.
 
 - 💻 Courses I have studied during my degree include:
 
