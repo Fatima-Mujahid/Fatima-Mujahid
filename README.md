@@ -19,19 +19,15 @@
     - 🖥️ Web Engineering
     - 📱 Mobile Application Development
     - 🔎 Software Design and Architecture
-    - 📌 Digital Logic Design
-    - 📀 Electronics
-    - 🧮 Calculus
-    - 📖 Discrete Mathematics
-    - 💣 Applied Physics
+    - 🤖 Machine Learning
 
-<!--
-- 👨‍💻 All of my projects are available at []()
--->
-
+- 👨‍💻 All of my projects are available [here](https://fatimamujahid.vercel.app/)
 - 👩‍🏫 Special thanks to [Anum Mujahid](https://github.com/AnumMujahid) for being there throughout my coding journey!
 
-- 📫 How to reach me **fatimamujahid01@gmail.com**
+### Let's Connect
+- 📫 Email me at [fatimamujahid01@gmail.com](mailto:fatimamujahid01@gmail.com)
+- ⭐ Send a DM on [LinkedIn](https://www.linkedin.com/in/fatimamujahid/)
+- 🖼️ Connect on [Instagram](https://www.instagram.com/_dev_logs/)
 
 ### Technologies
 
