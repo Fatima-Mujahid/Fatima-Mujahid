@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fatima Mujahid</h1>
-<p align="center">I'm Fatima Mujahid, a software engineer who graduated from NUST and a technology enthusiast who does full-stack development. Passionate to contribute to cool products.</p>
+<p align="center">I'm Fatima Mujahid, a NUST graduate and a passionate software engineer specializing in full-stack development. As a technology enthusiast, I'm eager to contribute to innovative and impactful products.</p>
 
 <!--- 🌱 I’m currently learning **Data Science** through **Coursera**.-->
-- 👯 I’m currently working on a project using **NextJS** and **Sanity**.
+- 👯 I’m currently working on multiple projects using **NextJS** and **Django**.
 
 - 💻 Courses I have studied during my degree include:
 
@@ -17,6 +17,7 @@
     - 🧸 Computer Architecture and Organization
     - 🧵 Operating Systems
     - 🖥️ Web Engineering
+    - 📱 Mobile Application Development
     - 🔎 Software Design and Architecture
     - 📌 Digital Logic Design
     - 📀 Electronics
@@ -28,7 +29,7 @@
 - 👨‍💻 All of my projects are available at []()
 -->
 
-- 👩‍🏫 Special thanks to [Anum Mujahid](https://github.com/AnumMujahid) for being there throughout my coding journey
+- 👩‍🏫 Special thanks to [Anum Mujahid](https://github.com/AnumMujahid) for being there throughout my coding journey!
 
 - 📫 How to reach me **fatimamujahid01@gmail.com**
 
