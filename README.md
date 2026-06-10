@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fatima Mujahid</h1>
-<p align="center">Software Engineer dedicated to crafting innovative solutions that deliver exceptional results. With over 3 years of experience, I specialize in turning ideas into reality and building software that solves real-world problems while being delightful to use.</p> 
 
-My mission? 
+### Currently building
+- **[lumi](https://lumi.kueenztechnologies.com)** – sleep lock & alarm app (Flutter, AlarmKit, Screen Time API). live on [play store](https://play.google.com/store/apps/details?id=com.kueenztechnologies.sleeplockalarm). coming soon on app store.
 
-To create products that people genuinely enjoy interacting with. Whether it’s React.js, Next.js, Python, Django, Laravel, Flutter, or tools like Docker, AWS, and Nginx, I thrive on challenges and leverage cutting-edge tech to drive meaningful outcomes. 
-
-What I’ve done so far: 
+### What I’ve done so far: 
 
 - Built real-time property data AI SaaS for Techstars startup IQLand.
 - Built MVP to handle third-party claims with Claimbrite.
@@ -16,7 +14,7 @@ What I’ve done so far:
 - Developed a Flutter AI Art app with in-app purchases and AWS APIs.
 - Built scalable applications for Alfabolt using Next.js, Laravel, etc.
 
-What others say about working with me:
+### What others say about working with me:
 
 - "Collaboration with Fatima not only exceeded our expectations but also brought significant efficiencies in our operational processes. Thanks to her innovative approach, we've saved 10 hours of manual work each week and greatly improved user satisfaction." 
 Mohil Shah, Founder @ Study Mind 
@@ -24,12 +22,12 @@ Mohil Shah, Founder @ Study Mind
 - "Fatima is a hardworking and reliable resource who takes responsibility and puts in extra effort to deliver on targets. She is always eager to learn more. I’d definitely recommend working with her." 
 Amber Ayaz, Manager Application Design @ Jazz 
 
-Recognition: 
+### Recognition: 
 - Top Rated on Upwork (top 10% of freelance talent) 
 - Maintained a 100% Job Success Score 
 - Received Upwork Skill Certification for React
 
-Projects:
+### Projects:
 - All of my projects are available [here](https://fatimamujahid.vercel.app/)
 
 If you’re looking for a collaborator who’s committed to excellence, let’s connect! 
