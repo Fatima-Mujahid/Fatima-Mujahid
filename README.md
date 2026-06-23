@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatima Mujahid</h1>
 
 ### Currently building
-- **[lumi](https://lumi.kueenztechnologies.com)** – sleep lock & alarm app (Flutter, AlarmKit, Screen Time API). live on [play store](https://play.google.com/store/apps/details?id=com.kueenztechnologies.sleeplockalarm). coming soon on app store.
+- **[lumi](https://lumi.kueenztechnologies.com)** – sleep lock & alarm app (Flutter, AlarmKit, Screen Time API). live on [app store](https://apps.apple.com/us/app/alarmy-loud-alarm-clock/id6767829067) and [play store](https://play.google.com/store/apps/details?id=com.kueenztechnologies.sleeplockalarm).
 
 ### What I’ve done so far: 
 
